@@ -5,6 +5,8 @@
 ##### As a structural engineer, was introduced to parametric modelling to create tools that would improve efficiency and optimise processes and was taken back to fun of coding when I had to create snippets of Python or C# code to perform functions that were not available within a standard software package. The little snippets of code now no longer satisfy me and I am looking for bigger challenges!
 
 ##### I've spent this year upskilling my coding knowledge, mostly in Python but I am always hungry and willing to learn more. I have an MEng in Civil Engineering from Imperial College London where I did a lot of heavy Mathematical coding in MATLAB to solve problems in Fluid Mecahnics. 
+
+#### 📫 daniellechen@live.com.sg
 <!--
 **danchke/danchke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
