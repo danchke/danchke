@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, I'm Dani 👋
+
+##### I've spent the last six years as a structural engineer but I've always had a facination with coding. My first taste of coding was with MATLAB while I was at university and was immediately hooked when fifth order differential equations were solved in a matter of seconds! 
+
+##### As a structural engineer, was introduced to parametric modelling to create tools that would improve efficiency and was taken back to fun of coding when I had to create snippets of Python or C# code to perform functions that were not available within a standard software package. The little snippets of code now no longer satisfy me and I am looking for bigger challenges!
+
+##### I've spent this year upskilling my coding knowledge, mostly in Python but I am always hungry and willing to learn more. 
 
 <!--
 **danchke/danchke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
